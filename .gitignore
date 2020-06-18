@@ -1,5 +1,5 @@
 venv
-test_dynamic_airavata_django_app.egg-info
+bcbportal_djangoapp.egg-info
 *.pyc
 .vscode
 build
